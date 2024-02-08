@@ -10,6 +10,8 @@ namespace GA_LinkedList_Singly_DanielMinty
     {
         static void Main(string[] args)
         {
+            
+            Console.ReadLine();
         }
     }
 }
